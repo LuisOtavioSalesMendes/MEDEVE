@@ -7,7 +7,7 @@ $usuarios = [
 ];
 
 $contas = [
-    ["descricao" => "Mensalidade", "valor" => 200, "tipo" => "Receber", "status" => "Pendente"],
+    ["descricao" => "Emprestimo", "valor" => 2.65, "tipo" => "Receber", "status" => "Pendente"],
     ["descricao" => "Internet", "valor" => 100, "tipo" => "Pagar", "status" => "Pendente"]
 ];
 
